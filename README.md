@@ -32,4 +32,4 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-This README was generated with ❤️ by authors of this project
+_This README was generated with ❤️ by authors of this project_
