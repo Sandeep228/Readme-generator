@@ -24,7 +24,7 @@ npm run test
 
 ## Author
 
-👤 **puja sandeep**
+👤 **Puja and Sandeep**
 
 
 ## Show your support
