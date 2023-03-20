@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "readme-md-generator": "^1.0.0",
     "reflect-metadata": "^0.1.13",
     "ts-node-dev": "^2.0.0",
     "tsyringe": "^4.7.0",
