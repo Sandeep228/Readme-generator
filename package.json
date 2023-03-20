@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "github readme generator",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && tsc && cat package.json > ./dist/package.json",
+    "build:watch": "rm -rf dist && tsc --watch",
+    "dev": "ts-node-dev --respawn src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "puja sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "reflect-metadata": "^0.1.13",
+    "ts-node-dev": "^2.0.0",
+    "tsyringe": "^4.7.0",
+    "typescript": "^5.0.2",
+    "uuidv4": "^6.2.13"
+  }
+}
